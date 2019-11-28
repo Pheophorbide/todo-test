@@ -1,0 +1,32 @@
+.card {
+  max-width: 500px;
+  margin: 100px auto;
+
+  &__footer {
+    display: flex;
+    align-items: center;
+    background: transparent;
+    border-top: none;
+    padding: 1.25rem 1.25rem 1.5rem;
+  }
+
+  &__form-group {
+    flex-grow: 1;
+    margin: 0;
+    padding-left: 1rem;
+  }
+
+  &__button {
+    color: #000;
+    padding: 0;
+  }
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__error {
+    position: absolute;
+  }
+}
