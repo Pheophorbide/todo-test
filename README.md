@@ -10,3 +10,7 @@ You will also see any lint errors in the console.
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
+
+![screen1](screenshots/3.png)
+![screen2](screenshots/2.png)
+![screen3](screenshots/1.png)
